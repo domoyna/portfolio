@@ -1,0 +1,16 @@
+body {
+    background: beige;
+
+}
+h1 {
+    font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+}
+
+p {
+    font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+}
